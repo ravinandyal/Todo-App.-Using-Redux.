@@ -1,27 +1,34 @@
-.list-group-item{
-  display:flex;
-  justify-content:space-between;
-  align-items: center;
-}
-
+.list-group-item {
+   display:flex;
+   justify-content:space-between;
+   align-items:center;
+  }
+  
 .list-group-item p {
-  margin: 0;
-  max-width:70%;
-  word-break: break-word;
+  margin:0;
+  max-width:60%;
+  word-break:break-word;
 }
 
 ul {
-  margin-top:20px;
-  
+  padding:0;
+  margin-top:10px;
+  margin-left:12px;
 }
 
 li {
- margin-right:10px; 
+ margin-right:12px;
+ margin-top:2px;
 }
 
-.btn {
+.btn1 {
+  
   display:flex;
   gap:5px;
+} 
+
+.form2 {
+  margin-right:12px;
 }
 
 
