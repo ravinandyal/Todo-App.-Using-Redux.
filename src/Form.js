@@ -1,6 +1,6 @@
 import {useDispatch,useSelector} from "react-redux"
-import {useState,useEffect} from "react"
-import {add,Delete2,Edit2} from "./Reducer.js"
+import {useState} from "react"
+import {add} from "./Reducer.js"
 import List from "./List"
 
 
